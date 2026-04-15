@@ -1,3 +1,3 @@
-# BEE2041 Empirical Project
+# BEE2041 Empirical Project Replication
 
-Data was downloaded from 
+___ Data was downloaded from through terminal
